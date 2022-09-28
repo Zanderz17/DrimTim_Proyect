@@ -43,7 +43,7 @@ $ Second example
 $ And keep this in mind
 ```
 
-## Deployment
+## :mag_right: Deployment
 
 Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
 
