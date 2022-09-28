@@ -1,14 +1,21 @@
-# DrimTim_Proyect
+# :large_orange_diamond: DrimTim_Proyect
 
-A short description about the project and/or client.
+Project developed for the software engineering course (CC1143). Purchase module of an ERP, in which the client is a company that sells books and toys.
 
 ## :sparkles: Contributors
 
-## Getting Started
+* Sanders Chancan Chanca
+* Gomero Castillo, Brayan Eduardo 
+* Zapata Gallegos, Neo Marcelo
+* Leandro Blas, Juan Jose 
+
+
+
+## :rocket: Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### :computer: Prerequisites
 
 The things you need before installing the software.
 
@@ -16,7 +23,7 @@ The things you need before installing the software.
 * And you need this
 * Oh, and don't forget this
 
-### Installation
+### :cd: Installation
 
 A step by step guide that will tell you how to get the development environment up and running.
 
@@ -26,7 +33,7 @@ $ Another step
 $ Final step
 ```
 
-## Usage
+## :pushpin: Usage
 
 A few examples of useful commands and/or tasks.
 
@@ -40,20 +47,20 @@ $ And keep this in mind
 
 Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
 
-### Server
+### :electric_plug: Server
 
 * Live:
 * Release:
 * Development:
 
-### Branches
+### :exclamation: Branches
 
 * Master:
 * Feature:
 * Bugfix:
 * etc...
 
-## Additional Documentation and Acknowledgments
+## :closed_book: Additional Documentation and Acknowledgments
 
 * Project folder on server:
 * Confluence link:
